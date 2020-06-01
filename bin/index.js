@@ -12,9 +12,9 @@ const config = new Configstore(name)
 
 const usage = `
 Just:
-$ npmyarn`.zh(`
+$ yrnpm`.zh(`
 只需要输在命令行入:
-$ npmyarn`)
+$ yrnpm`)
 
 yargs
 .usage(usage)

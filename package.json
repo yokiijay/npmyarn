@@ -1,5 +1,5 @@
 {
-  "name": "npmyarn",
+  "name": "yrnpm",
   "version": "1.0.0",
   "description": "A command line tool for switching npm yarn registry origin. 2020新款切换镜像源的工具",
   "main": "index.js",
