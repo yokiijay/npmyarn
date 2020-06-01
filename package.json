@@ -1,0 +1,16 @@
+{
+  "name": "npmyarn",
+  "version": "1.0.0",
+  "description": "A command line tool for switching npm yarn origin. 2020新款切换镜像源的工具",
+  "main": "index.js",
+  "keywords": [
+    "mirror",
+    "origin",
+    "switch origin",
+    "npm",
+    "yarn",
+    "镜像源"
+  ],
+  "author": "Yokiijay <yokiijay@gmail.com> (https://yokiijay.github.io)",
+  "license": "MIT"
+}
