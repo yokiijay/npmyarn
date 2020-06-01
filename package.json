@@ -1,7 +1,7 @@
 {
   "name": "npmyarn",
   "version": "1.0.0",
-  "description": "A command line tool for switching npm yarn origin. 2020新款切换镜像源的工具",
+  "description": "A command line tool for switching npm yarn registry origin. 2020新款切换镜像源的工具",
   "main": "index.js",
   "keywords": [
     "mirror",
@@ -12,5 +12,18 @@
     "镜像源"
   ],
   "author": "Yokiijay <yokiijay@gmail.com> (https://yokiijay.github.io)",
-  "license": "MIT"
+  "license": "MIT",
+  "bin": "./bin/index.js",
+  "files": [
+    "bin",
+    "src"
+  ],
+  "dependencies": {
+    "command-exists": "^1.2.9",
+    "configstore": "^5.0.1",
+    "execa": "^4.0.2",
+    "prompts": "^2.3.2",
+    "signale": "^1.4.0",
+    "yargs": "^15.3.1"
+  }
 }
